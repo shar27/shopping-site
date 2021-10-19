@@ -1,3 +1,7 @@
+A previous project filtering through multiple api lists inspired me to do something similar but with a shopping site. And, on this occassion using just one api. 
+
+useState, useEffect and .map/.filter will be used in this project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
